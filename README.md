@@ -23,7 +23,7 @@ Na základě tebou zadané hodnoty (v bpm) ti aplikace zobrazí přehlednou tabu
 
 Aplikace běží přímo v prohlížeči.
 
-👉 [Spustit aplikaci online](https://ondrejklubal.github.io/tepove-zony-app/)
+👉 [Spustit aplikaci online](https://ondraklubal.github.io/hr_zony/)
 
 > ⚠️ Žádný server není potřeba – vše běží čistě v prohlížeči jako statická stránka.
 
